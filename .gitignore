@@ -30,3 +30,6 @@ demo_data.csv
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+# env
+.env
